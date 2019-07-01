@@ -32,7 +32,7 @@
 #define NOTE_BLUE 7040
 
 /* 
- * Cada LED possui um pino e um botão e uma nota associados, armazenados numa struct.
+ * Cada LED possui um pino, um botão e uma nota associados, armazenados numa struct.
  * A struct é inicializada com as quatro cores do jogo.
  */
 const struct _led{
